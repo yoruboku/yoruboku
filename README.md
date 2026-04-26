@@ -1,4 +1,1 @@
-no_sleep = True
-
-if no_sleep == True:
-    print("DRUNK")
+Hello, World! 
